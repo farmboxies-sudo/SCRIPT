@@ -1,0 +1,3 @@
+СКРИПТ: / SCRIPT:
+
+loadstring(game:HttpGet("https://pastebin.com/raw/ycD6uXmm"))()
